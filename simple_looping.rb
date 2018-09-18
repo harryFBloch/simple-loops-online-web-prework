@@ -53,6 +53,7 @@ def for_iterator(number_of_times)
   for i in number_of_times
     puts phrase
   end
-  
 end
+
+for_iterator(4)
 
